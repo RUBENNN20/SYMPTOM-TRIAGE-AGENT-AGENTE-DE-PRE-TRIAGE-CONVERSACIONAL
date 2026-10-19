@@ -1,6 +1,6 @@
 # Fase 3 — Resultados de las pruebas
 
-- Fecha de ejecución: 2026-10-18T16:46:01
+- Fecha de ejecución: 2026-10-18T21:58:50
 - SHA-256 de `umbrales.json` (fijado antes de ejecutar): `0675639c241c1bc4c41a0e4d5b66dda36f0d7ac183939771d28897ad8f23dd09`
 - 10 repeticiones por escenario, 100 pacientes por escenario y repetición, entrenamiento previo de 500 pacientes; total de pacientes ejecutados: 6000
 - Resultado = media ± desviación estándar entre repeticiones (pp = puntos porcentuales)

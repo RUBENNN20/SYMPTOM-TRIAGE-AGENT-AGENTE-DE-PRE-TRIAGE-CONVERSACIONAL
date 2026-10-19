@@ -3,3 +3,4 @@
 pandas>=2.0
 # Solo para las pruebas:
 pytest>=7
+streamlit
